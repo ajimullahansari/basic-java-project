@@ -1,2 +1,2 @@
 # basic-java-project
-ok
+java
